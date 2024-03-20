@@ -1,14 +1,4 @@
-body{
 
-background: url(https://c4.wallpaperflare.com/wallpaper/596/78/338/flowers-roses-bouquet-pink-wallpaper-preview.jpg);
-background-position: center;
-background-repeat: no-repeat;
-background-size: cover;
-
-          margin: 0;
-          font-family: 'poppins',sans-serif;
-
-}
 
 #form{
 width: 400px;
@@ -68,4 +58,6 @@ border-color: rgb(206, 67, 67);
 border-color: #0cc477;
 }
 
-
+body{
+    background: url(https://images.pexels.com/photos/1307445/pexels-photo-1307445.jpeg?auto=compress&cs=tinysrgb&w=600);
+}
